@@ -15,6 +15,7 @@ public class PagamentoComissao {
         comissao = resultado - (resultado * 5/100);
         JOptionPane.showMessageDialog(
             null,
-            String.format(""));
+            String.format("Comissão vendedor\n 5 do valor total da venda R$%.2f",comissao));
+        
     }
 }

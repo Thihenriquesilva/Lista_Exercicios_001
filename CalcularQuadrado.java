@@ -1,4 +1,3 @@
-import javax.lang.model.type.NullType;
 import javax.swing.JOptionPane;
 
 public class CalcularQuadrado {
