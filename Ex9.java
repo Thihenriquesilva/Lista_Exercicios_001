@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class ReajusteMensal {
+public class Ex9 {
     public static void main(String[] args) {
         // Ler o salário mensal atual de um funcionário e o percentual de reajuste. Calcular e exibir
         // o valor do novo salário.

@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class CalcularQuadrado {
+public class Ex2 {
     public static void main(String[] args) {
         //Ler 4 números, calcular o quadrado para cada um, somar todos os quadrados e mostrar o
         //resultado

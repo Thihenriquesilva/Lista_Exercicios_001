@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class SalarioVendedor {
+public class Ex11 {
     public static void main(String[] args) {
         // Uma revendedora de carros usados paga a seus funcionários vendedores um salário
         // fixo por mês, mais uma comissão também fixa para cada carro vendido e mais 5% do valor
